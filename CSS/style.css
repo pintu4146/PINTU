@@ -20,7 +20,7 @@ body{
 
   text-align: center;
   position: relative;
-  
+
   top:0;
 
 
@@ -42,6 +42,7 @@ p{
 .top-cloud{
 
   position: relative;
+  top: 50px;
   left: 300px;
 }
 .propic{
